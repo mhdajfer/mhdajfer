@@ -1,6 +1,6 @@
 
 
-<img  width="100%" height="450px" src="https://c0.wallpaperflare.com/preview/944/356/969/concept-construction-page-site.jpg">
+
 
 <h1 align="center">Hi 👋, I'm Muhammed Ajfer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
